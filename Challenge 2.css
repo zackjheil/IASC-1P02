@@ -3,11 +3,13 @@ body{
 }
 
 #ListOpen{
-  color:green; font-style: italic;
+  color:green;
+  font-style: italic;
 }
 
 .Class{
-  display: inline; font-size: 30px;
+  display: inline;
+  font-size: 30px;
 }
 
 /* Code Validated wiht W3 CSS Validator 5:17 PM 9/25/18 */
