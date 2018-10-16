@@ -1,3 +1,11 @@
 .p1,.p3{color:green;}
+
 .p2,.p4{color:blue;}
+
 .div1 p{color:purple;}
+
+
+.p1{position:fixed;}
+.p3{position:absolute;}
+.p2{position:relative;}
+.p4{top:5000px;}
